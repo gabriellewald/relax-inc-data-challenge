@@ -29,7 +29,7 @@ Relax Inc. makes productivity and project management software that's popular wit
 <img src='images/correlation-table.png' width="600">
 
 **Predictive Modeling with new feature:**
-- This returned a test accuracy of 0.96.
+- **Random Forest Classifier test accuracy 0.96**.
 - The most important feature to predict user adoption is the engineered feature acct_age.
 - Second most important is org_id. 
 - The engineered feature significantly improved model performance.
