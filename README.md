@@ -34,8 +34,13 @@ Relax Inc. makes productivity and project management software that's popular wit
 - Second most important is org_id. 
 - The engineered feature significantly improved model performance.
 
-image
-image
+**Table 1. PRECISION RECALL**
+
+<img src='images/precision-recall.png' width="400">
+
+**Table 2. FEATURE IMPORTANCE**
+
+<img src='images/feature-importance.png' width="400">
 
 **Next steps:** 
 - Further explore org_id, perhaps apply KNN clustering algorithm to identify the natural grouping of users and create new features based on it. 
