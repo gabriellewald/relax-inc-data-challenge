@@ -36,7 +36,7 @@ Relax Inc. makes productivity and project management software that's popular wit
 
 **Table 1. PRECISION RECALL**
 
-<img src='images/precision-recall.png' width="400">
+<img src='images/precision-recall.png' width="500">
 
 **Table 2. FEATURE IMPORTANCE**
 
